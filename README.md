@@ -25,17 +25,17 @@
 
 ```javascript
 const nitish = {
-    pronouns: "He" | "Him", location: "Delhi NCR, India 🇮🇳",
-    title: ["Full-Stack Developer","Web Enthusiast"]
-    specialization: ["Frontend", "Backend", "ML"],
+ pronouns: "He" | "Him", location: "Delhi NCR, India 🇮🇳",
+ title: ["Full-Stack Developer","Web Enthusiast"]
+ specialization: ["Frontend", "Backend", "ML"],
 
-    currentlyLearning: ["Agentic AI", "Advanced ML & Forecasting", "Data Science"],
-    techStack: { frontend: ["React", "Next.js", "TypeScript"],
-    backend: ["Node.js", "Express", "MongoDB"],
-    ml: ["Python", "TensorFlow", "PyTorch"], },
+ currentlyLearning: ["Agentic AI", "Advanced ML", "Data Science"],
+ techStack: { frontend: ["React", "Next.js", "TypeScript"],
+ backend: ["Node.js", "Express", "MongoDB"],
 
-    hobbies: ["Drawing", "Problem Solving", "Learning"],
-    funFact: "⚡ Train → Test → Deploy → Repeat ☕"
+ ml: ["Python", "TensorFlow", "PyTorch"], },
+ hobbies: ["Drawing", "Problem Solving", "Learning"],
+ funFact: "⚡ Train → Test → Deploy → Repeat ☕"
 };
 ```
 
