@@ -34,7 +34,8 @@ const nitish = {
     backend: ["Node.js", "Express", "MongoDB"],
     ml: ["Python", "TensorFlow", "PyTorch"], },
 
-    hobbies: ["Drawing", "Problem Solving", "Learning"], funFact: "⚡ Train → Test → Deploy → Repeat ☕"
+    hobbies: ["Drawing", "Problem Solving", "Learning"],
+    funFact: "⚡ Train → Test → Deploy → Repeat ☕"
 };
 ```
 
@@ -147,7 +148,6 @@ const nitish = {
   <img src="https://raw.githubusercontent.com/nh7k/nh7k/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-> **Note:** To enable the snake animation, you need to set up a GitHub Action. Create `.github/workflows/snake.yml` with the snake generation workflow.
 
 ---
 
@@ -181,7 +181,7 @@ const nitish = {
 
 <div align="center">
   
-  ### 💙 Thanks for visiting! Let's build something amazing together!
+  ### 💙 Let's build something amazing together!
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
   
