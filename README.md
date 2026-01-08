@@ -159,17 +159,44 @@ const nitish = {
 
 ## ✍️ Random Dev Quote
   
-<div class ="g" bg_color=0D1117>
 
-<div align="center" border_color=F85D7F>
-  
-### **कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।**
-### **मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥**
 
-*"You have the right to perform your prescribed duties, but you are not entitled to the fruits of your actions. Never consider yourself to be the cause of the results of your activities, nor be attached to inaction."*
+<div align="center" style="
+  background:#0D1117;
+  padding:24px;
+  border-radius:14px;
+  border:1px solid #30363d;
+">
 
-</div >
+<h3 style="
+  background: linear-gradient(90deg, #A18CD1, #FBC2EB);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight:700;
+">
+कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।
+</h3>
+
+<h3 style="
+  background: linear-gradient(90deg, #FBC2EB, #A6C1EE);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight:700;
+">
+मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥
+</h3>
+
+<p style="
+  margin-top:14px;
+  color:#c9d1d9;
+  font-style:italic;
+  max-width:700px;
+">
+“You have the right to perform your prescribed duties, but you are not entitled to the fruits of your actions. Never consider yourself to be the cause of the results of your activities, nor be attached to inaction.”
+</p>
+
 </div>
+
 
 ---
 
