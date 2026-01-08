@@ -145,22 +145,30 @@ const nitish = {
 ## 🐍 Contribution Snake
 
 <div align="center">
+  <picture>
+
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SunilBaghel002/SunilBaghel002/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SunilBaghel002/SunilBaghel002/output/github-contribution-grid-snake.svg" />
   <img src="https://raw.githubusercontent.com/nh7k/nh7k/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  </picture>
+
 </div>
 
 
 ---
 
 ## ✍️ Random Dev Quote
+  
+<div class ="g" bg_color=0D1117>
 
-<div align="center">
+<div align="center" border_color=F85D7F>
   
 ### **कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।**
 ### **मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥**
 
 *"You have the right to perform your prescribed duties, but you are not entitled to the fruits of your actions. Never consider yourself to be the cause of the results of your activities, nor be attached to inaction."*
 
-
+</div >
 </div>
 
 ---
